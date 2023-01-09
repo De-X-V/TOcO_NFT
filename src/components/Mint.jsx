@@ -37,7 +37,7 @@ export default function Mint() {
       return;
     }
 
-    const mintContract = "0xa83A1472f66E3F53738f060221Ba782A8cED7D45";
+    const mintContract = "0x913841837d9b77836947C7bC3F2b86215804fafB";
     const value = 10000000000000000 * counter;
     const gas = 200000 * counter;
 
