@@ -49,7 +49,6 @@ export default function Hero() {
           Your Address : {myAddress}
           <br />
           <br />
-          {/* Your Balance : {balance} */}
         </Text>
         <Stack spacing={6} direction={"row"}>
           <Mint />
@@ -62,7 +61,7 @@ export default function Hero() {
         >
           max supply : 50
           <br />
-          Connect to the Ethereum Mainnet
+          Connect to Ethereum Goerli Network
         </Text>
       </Stack>
     </Container>
